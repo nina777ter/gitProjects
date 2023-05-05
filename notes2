@@ -1,0 +1,9 @@
+git - local version system
+GitHub - cloud repository website, website that is inegrated with git system,
+shareble repository/location, that produces shareable link
+
+git
+-local vs cloud
+-create project - >enable git enable VCS) - > use the  link as origin
+ -> create repository on the GitHub -> use the link as origin
+ -> configure global git configuration (name, email)
